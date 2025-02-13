@@ -1,0 +1,26 @@
+ Login System 📱
+
+## Introducion
+- I made this to learn how to make a login system using hashing.
+- It has the ability to register users with username and password.
+- Password is hashed and stored in userDatabase.
+- It verifies that the username and password exists by comparing it to the stored hash.
+- 3 options available to user : 1.Register, 2.Login, 3.Exit.
+---
+
+📚 Tech Used 📚
+* I used Visual Studio Code, and coding language was C#
+
+### How to use
+1. Clone repository: https://github.com/Jonesey86/Login-System
+2. dotnet run
+3. Follow instruction's
+4. Exit anytime in the process.
+
+
+---
+
+### Contact
+For questions or feedback, please contact me via E-Mail 📩
+
+
