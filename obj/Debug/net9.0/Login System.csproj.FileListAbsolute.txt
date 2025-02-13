@@ -1,0 +1,15 @@
+C:\Users\ianro\Desktop\Login System\bin\Debug\net9.0\Login System.exe
+C:\Users\ianro\Desktop\Login System\bin\Debug\net9.0\Login System.deps.json
+C:\Users\ianro\Desktop\Login System\bin\Debug\net9.0\Login System.runtimeconfig.json
+C:\Users\ianro\Desktop\Login System\bin\Debug\net9.0\Login System.dll
+C:\Users\ianro\Desktop\Login System\bin\Debug\net9.0\Login System.pdb
+C:\Users\ianro\Desktop\Login System\obj\Debug\net9.0\Login System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ianro\Desktop\Login System\obj\Debug\net9.0\Login System.AssemblyInfoInputs.cache
+C:\Users\ianro\Desktop\Login System\obj\Debug\net9.0\Login System.AssemblyInfo.cs
+C:\Users\ianro\Desktop\Login System\obj\Debug\net9.0\Login System.csproj.CoreCompileInputs.cache
+C:\Users\ianro\Desktop\Login System\obj\Debug\net9.0\Login System.sourcelink.json
+C:\Users\ianro\Desktop\Login System\obj\Debug\net9.0\Login System.dll
+C:\Users\ianro\Desktop\Login System\obj\Debug\net9.0\refint\Login System.dll
+C:\Users\ianro\Desktop\Login System\obj\Debug\net9.0\Login System.pdb
+C:\Users\ianro\Desktop\Login System\obj\Debug\net9.0\Login System.genruntimeconfig.cache
+C:\Users\ianro\Desktop\Login System\obj\Debug\net9.0\ref\Login System.dll
