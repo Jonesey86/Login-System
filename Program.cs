@@ -29,7 +29,7 @@ namespace LoginSystem
                         LoginUser();
                         break;
                     case "3":
-                        Console.WriteLine("Goodbye");
+                        Console.WriteLine("GoodBye");
                         return;
                     default:
                         Console.WriteLine("Invalid option. Please try again!");
