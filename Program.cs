@@ -99,7 +99,7 @@ namespace LoginSystem
             }
         }
 
-        static string HashPassword(string password)
+        static string HashPassword(string password) // storage for password
         {
             return ComputeSHA256Hash(password.ToLower());
         }
