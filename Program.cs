@@ -9,7 +9,7 @@ namespace LoginSystem
     {
         static Dictionary<string, string> userDatabase = new Dictionary<string, string>();
 
-        static void Main(string[] args)
+        static void Main(string[] args) // Overveiw of options you have in terminal, you can exit at and time by using option 3.
         {
             while (true)
             {
@@ -29,7 +29,7 @@ namespace LoginSystem
                         LoginUser();
                         break;
                     case "3":
-                        Console.WriteLine("Thankyou for using the Login System, GoodBye!");
+                        Console.WriteLine("Thankyou for using the Login System, GoodBye!"); 
                         return;
                     default:
                         Console.WriteLine("Invalid option. Please try again!");
@@ -38,7 +38,7 @@ namespace LoginSystem
             }
         }
 
-        static void RegisterUser()
+        static void RegisterUser() 
         {
             Console.Write("Enter a username: ");
             string? username = Console.ReadLine();
