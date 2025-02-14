@@ -1,6 +1,7 @@
  Login System 📱
 
 * Introducion
+- This was a fun introduction into how to use hashing and how to make a login system that is terminal based.
 - I made this to learn how to make a login system using hashing.
 - It has the ability to register users with username and password.
 - Password is hashed and stored in userDatabase.
