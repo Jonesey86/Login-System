@@ -58,7 +58,7 @@ namespace LoginSystem
             Console.WriteLine("User registered successfully!");
         }
 
-        static void LoginUser()
+        static void LoginUser() // Login process
         {
             Console.Write("Enter your username: ");
             string? username = Console.ReadLine();
@@ -83,7 +83,7 @@ namespace LoginSystem
             }
         }
 
-        static string ComputeSHA256Hash(string input)
+        static string ComputeSHA256Hash(string input) // Hashing of the password and username.
         {
             using (SHA256 sha256 = SHA256.Create())
             {
