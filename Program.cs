@@ -38,7 +38,7 @@ namespace LoginSystem
             }
         }
 
-        static void RegisterUser() // Login process 
+        static void RegisterUser() // registration process process 
         {
             Console.Write("Enter a username: ");
             string? username = Console.ReadLine();
